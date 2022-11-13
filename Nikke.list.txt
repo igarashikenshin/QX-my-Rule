@@ -1,0 +1,4 @@
+# > Nikke
+DOMAIN,nikke-kr.com
+DOMAIN,intlgame.com
+DOMAIN-KEYWORD,cn-jp-eq-bcache-

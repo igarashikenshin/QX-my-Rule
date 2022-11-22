@@ -1,10 +1,5 @@
 # > Nikke
-DOMAIN,cloud.nikke-kr.com
-DOMAIN,jp-lobby.nikke-kr.com
-DOMAIN,aws-na-dr.intlgame.com
-DOMAIN,aws-na.intlgame.com
-DOMAIN,cdp.cloud.unity3d.com
-DOMAIN,perf-events.cloud.unity3d.com
-DOMAIN,data-aws-na.intlgame.com
-DOMAIN,na1.centauriglobal.com
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,intlgame.com
+
 

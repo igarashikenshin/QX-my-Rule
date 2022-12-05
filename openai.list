@@ -1,2 +1,3 @@
 # > OpenAI
-DOMAIN,chat.openai.com:443
+DOMAIN-SUFFIX,openai.com
+DOMAIN,chat.openai.com

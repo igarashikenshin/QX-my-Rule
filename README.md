@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/igarashikenshin/QX-Nikke-Rule/main/Game.list
+https://raw.githubusercontent.com/igarashikenshin/QX-my-Rule/main/Game.list

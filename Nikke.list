@@ -5,9 +5,6 @@ DOMAIN-SUFFIX,iegcom.com
 DOMAIN-SUFFIX,unity3d.com
 # > Blue
 DOMAIN-SUFFIX,nexon.com
-# > Echocalypse
-DOMAIN-SUFFIX,enish-games.com
-# > Hakuya
-DOMAIN-SUFFIX,alchemystars.com
-# > Hoyolab
-DOMAIN-SUFFIX,hoyolab.com
+# > BD2
+DOMAIN-SUFFIX,pmang.cloud
+DOMAIN-SUFFIX,neonapi.com

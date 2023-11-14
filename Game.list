@@ -1,9 +1,15 @@
 # > Nikke
-DOMAIN-SUFFIX,nikke-kr.com
-DOMAIN-SUFFIX,intlgame.com
-DOMAIN-SUFFIX,iegcom.com
+HOST-SUFFIX,iegcom.com,Nikke
+HOST-SUFFIX,intlgame.com,Nikke
+HOST-SUFFIX,nikke-kr.com,Nikke
+HOST-SUFFIX,nikke-en.com,Nikke
+HOST-SUFFIX,anticheatexpert.com,Nikke
+HOST-SUFFIX,centauriglobal.com,Nikke
+HOST-SUFFIX,gamepass.com,Nikke
+IP-CIDR,43.152.114.31/32,Nikke
+
 DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,nikke-en.com
+
 # > Blue
 DOMAIN-SUFFIX,nexon.com
 # > BD2
@@ -11,7 +17,11 @@ DOMAIN-SUFFIX,pmang.cloud
 DOMAIN-SUFFIX,neonapi.com
 # > hoyoverse
 DOMAIN-SUFFIX,starrails.com
-DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,mihoyo.com
-DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,yuanshen.com
+HOST-SUFFIX,genshinimpact.com,HoYoverse
+HOST-SUFFIX,honkaistarrail.com,HoYoverse
+HOST-SUFFIX,hoyo.link,HoYoverse
+HOST-SUFFIX,hoyolab.com,HoYoverse
+HOST-SUFFIX,hoyoverse.com,HoYoverse
+HOST-SUFFIX,n0vadesktop.com,HoYoverse

@@ -1,4 +1,3 @@
 payload:
-#Zalo
-  - DOMAIN-KEYWORD, zalo
-  - DOMAIN-SUFFIX,zdn.vn
+  - DOMAIN-SUFFIX,zalo.me
+  - DOMAIN-SUFFIX,zaloapp.com

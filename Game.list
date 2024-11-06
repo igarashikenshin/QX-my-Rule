@@ -1,12 +1,12 @@
 # > Nikke
-HOST-SUFFIX,iegcom.com,Nikke
-HOST-SUFFIX,intlgame.com,Nikke
-HOST-SUFFIX,nikke-kr.com,Nikke
-HOST-SUFFIX,nikke-en.com,Nikke
-HOST-SUFFIX,anticheatexpert.com,Nikke
-HOST-SUFFIX,centauriglobal.com,Nikke
-HOST-SUFFIX,gamepass.com,Nikke
-IP-CIDR,43.152.114.31/32,Nikke
+HOST-SUFFIX,iegcom.com
+HOST-SUFFIX,intlgame.com
+HOST-SUFFIX,nikke-kr.com
+HOST-SUFFIX,nikke-en.com
+HOST-SUFFIX,anticheatexpert.com
+HOST-SUFFIX,centauriglobal.com
+HOST-SUFFIX,gamepass.com
+IP-CIDR,43.152.114.31/32
 
 DOMAIN-SUFFIX,unity3d.com
 
@@ -14,11 +14,11 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,nexon.com
 
 # > hoyoverse
-HOST-SUFFIX,genshinimpact.com,HoYoverse
-HOST-SUFFIX,honkaistarrail.com,HoYoverse
-HOST-SUFFIX,hoyo.link,HoYoverse
-HOST-SUFFIX,hoyolab.com,HoYoverse
-HOST-SUFFIX,hoyoverse.com,HoYoverse
-HOST-SUFFIX,n0vadesktop.com,HoYoverse
+HOST-SUFFIX,genshinimpact.com
+HOST-SUFFIX,honkaistarrail.com
+HOST-SUFFIX,hoyo.link
+HOST-SUFFIX,hoyolab.com
+HOST-SUFFIX,hoyoverse.com
+HOST-SUFFIX,n0vadesktop.com
 
 HOST-SUFFIX,ta.yukia.net,Seiya

@@ -1,3 +1,33 @@
+#Parsec
+- DOMAIN-SUFFIX,parsec.app,DIRECT
+- DOMAIN-SUFFIX,parsecusercontent.com,DIRECT
+#Synology
+- DOMAIN-SUFFIX,quickconnect,DIRECT
+- DOMAIN-SUFFIX,synology.com,DIRECT
+- DOMAIN-SUFFIX,dyndns.org,DIRECT
+- DOMAIN-SUFFIX,synocommunity.com,DIRECT
+#Playstation
+- DOMAIN-SUFFIX,playstation.com,DIRECT
+- DOMAIN-SUFFIX,playstation.net,DIRECT
+- DOMAIN-SUFFIX,playstationnetwork.com,DIRECT
+- DOMAIN-SUFFIX,sonyentertainmentnetwork.com,DIRECT
+#Xbox
+- DOMAIN,titlestorage.xboxlive.com,DIRECT
+- DOMAIN,store-images.s-microsoft.com,DIRECT
+- DOMAIN,storeedgefd.dsx.mp.microsoft.com,DIRECT
+- DOMAIN,assets1.xboxlive.cn,DIRECT
+- DOMAIN,assets2.xboxlive.cn,DIRECT
+- DOMAIN-SUFFIX,live.com,DIRECT
+- DOMAIN-SUFFIX,xboxab.com,DIRECT
+- DOMAIN-SUFFIX,xboxlive.com,DIRECT
+- DOMAIN-SUFFIX,mp.microsoft.com,DIRECT
+- DOMAIN-SUFFIX,gamepass.com,DIRECT
+- DOMAIN-SUFFIX,xboxservices.com,DIRECT
+#Origin
+- DOMAIN-SUFFIX,ea.com,DIRECT
+- DOMAIN-SUFFIX,origin.com,DIRECT
+- DOMAIN,rtm.tnt-ea.com,DIRECT
+- DOMAIN,originassets.akamaized.net,DIRECT
 #Steam
 - DOMAIN-SUFFIX,akamaihd.net,DIRECT
 - DOMAIN-SUFFIX,steamstatic.com,DIRECT
@@ -29,7 +59,17 @@
 - DOMAIN-SUFFIX,steambroadcast.akamaized.net,DIRECT
 - DOMAIN-SUFFIX,steamcontent.com,DIRECT
 - DOMAIN-SUFFIX,steamserver.net,DIRECT
-
-
+#Epic
+- DOMAIN,cdn1-epicgames-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN,cdn2-unrealengine-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN,media-epicgames-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN,static-assets-prod-ue-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN,epicgames-download1-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN-SUFFIX,epicgames.dev,DIRECT
+- DOMAIN-SUFFIX,epicgames.com,DIRECT
+- DOMAIN-SUFFIX,unrealengine.com,DIRECT
+#Oray
+- DOMAIN-SUFFIX,oray.com,DIRECT
+- DOMAIN-SUFFIX,sunlogin.net,DIRECT
 #PPX
 - DOMAIN-SUFFIX,snssdk.com,DIRECT

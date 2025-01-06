@@ -71,3 +71,5 @@
 #Oray
 - DOMAIN-SUFFIX,oray.com,DIRECT
 - DOMAIN-SUFFIX,sunlogin.net,DIRECT
+#PPX
+- DOMAIN-SUFFIX,snssdk.com,DIRECT

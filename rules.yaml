@@ -1,0 +1,73 @@
+#Parsec
+- DOMAIN-SUFFIX,parsec.app,DIRECT
+- DOMAIN-SUFFIX,parsecusercontent.com,DIRECT
+#Synology
+- DOMAIN-SUFFIX,quickconnect,DIRECT
+- DOMAIN-SUFFIX,synology.com,DIRECT
+- DOMAIN-SUFFIX,dyndns.org,DIRECT
+- DOMAIN-SUFFIX,synocommunity.com,DIRECT
+#Playstation
+- DOMAIN-SUFFIX,playstation.com,DIRECT
+- DOMAIN-SUFFIX,playstation.net,DIRECT
+- DOMAIN-SUFFIX,playstationnetwork.com,DIRECT
+- DOMAIN-SUFFIX,sonyentertainmentnetwork.com,DIRECT
+#Xbox
+- DOMAIN,titlestorage.xboxlive.com,DIRECT
+- DOMAIN,store-images.s-microsoft.com,DIRECT
+- DOMAIN,storeedgefd.dsx.mp.microsoft.com,DIRECT
+- DOMAIN,assets1.xboxlive.cn,DIRECT
+- DOMAIN,assets2.xboxlive.cn,DIRECT
+- DOMAIN-SUFFIX,live.com,DIRECT
+- DOMAIN-SUFFIX,xboxab.com,DIRECT
+- DOMAIN-SUFFIX,xboxlive.com,DIRECT
+- DOMAIN-SUFFIX,mp.microsoft.com,DIRECT
+- DOMAIN-SUFFIX,gamepass.com,DIRECT
+- DOMAIN-SUFFIX,xboxservices.com,DIRECT
+#Origin
+- DOMAIN-SUFFIX,ea.com,DIRECT
+- DOMAIN-SUFFIX,origin.com,DIRECT
+- DOMAIN,rtm.tnt-ea.com,DIRECT
+- DOMAIN,originassets.akamaized.net,DIRECT
+#Steam
+- DOMAIN-SUFFIX,akamaihd.net,DIRECT
+- DOMAIN-SUFFIX,steamstatic.com,DIRECT
+- DOMAIN,steampipe.steamcontent.tnkjmec.com,DIRECT
+- DOMAIN,dl.steam.clngaa.com,DIRECT
+- DOMAIN,st.dl.eccdnx.com,DIRECT
+- DOMAIN,st.dl.bscstorage.net,DIRECT
+- DOMAIN,st.dl.pinyuncloud.com,DIRECT
+- DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com,DIRECT
+- DOMAIN,cdn-ws.content.steamchina.com,DIRECT
+- DOMAIN,cdn-ali.content.steamchina.com,DIRECT
+- DOMAIN,xz.pphimalayanrt.com,DIRECT
+- DOMAIN,cdn-qc.content.steamchina.com,DIRECT
+- DOMAIN,steam-chat.com,DIRECT
+- DOMAIN,store.st.dl.pinyuncloud.com,DIRECT
+- DOMAIN,media.st.dl.eccdnx.com,DIRECT
+- DOMAIN,media.st.dl.pinyuncloud.com,DIRECT
+- DOMAIN,cdn.steamstatic.com.8686c.com,DIRECT
+- DOMAIN,broadcast.st.dl.pinyuncloud.com,DIRECT
+- DOMAIN,broadcast.st.dl.eccdnx.com,DIRECT
+- DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
+- DOMAIN,steamcloud-ugc-hkg.oss-accelerate.aliyuncs.com,DIRECT
+- DOMAIN,ipv6check-http.steamcontent.com,DIRECT
+- DOMAIN,ipv6check-udp.steamcontent.com,DIRECT
+- DOMAIN,login.steampowered.com,DIRECT
+- DOMAIN,test.steampowered.com,DIRECT
+- DOMAIN-SUFFIX,steamgames.com,DIRECT
+- DOMAIN-SUFFIX,media.steampowered.com,DIRECT
+- DOMAIN-SUFFIX,steambroadcast.akamaized.net,DIRECT
+- DOMAIN-SUFFIX,steamcontent.com,DIRECT
+- DOMAIN-SUFFIX,steamserver.net,DIRECT
+#Epic
+- DOMAIN,cdn1-epicgames-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN,cdn2-unrealengine-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN,media-epicgames-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN,static-assets-prod-ue-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN,epicgames-download1-1251447533.file.myqcloud.com,DIRECT
+- DOMAIN-SUFFIX,epicgames.dev,DIRECT
+- DOMAIN-SUFFIX,epicgames.com,DIRECT
+- DOMAIN-SUFFIX,unrealengine.com,DIRECT
+#Oray
+- DOMAIN-SUFFIX,oray.com,DIRECT
+- DOMAIN-SUFFIX,sunlogin.net,DIRECT

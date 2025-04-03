@@ -2,10 +2,9 @@
 DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,parsecusercontent.com
 #Synology
-DOMAIN-SUFFIX,quickconnect
+DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,dyndns.org
-DOMAIN-SUFFIX,synocommunity.com
 #Playstation
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net

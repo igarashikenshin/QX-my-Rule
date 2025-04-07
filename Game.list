@@ -3,12 +3,6 @@ DOMAIN-SUFFIX,iegcom.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,nikke-en.com
-DOMAIN-SUFFIX,anticheatexpert.com
-DOMAIN-SUFFIX,centauriglobal.com
-DOMAIN-SUFFIX,gamepass.com
-IP-CIDR,43.152.114.31/32
-
-DOMAIN-SUFFIX,unity3d.com
 
 # > Blue
 DOMAIN-SUFFIX,nexon.com
@@ -19,7 +13,3 @@ DOMAIN-SUFFIX,honkaistarrail.com
 DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
-
-DOMAIN-SUFFIX,n0vadesktop.com
-
-
